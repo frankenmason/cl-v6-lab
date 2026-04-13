@@ -1,0 +1,12 @@
+INTENT: 분석
+ WHAT: 원인 파악
+
+따라서 이 패턴의 원인은 Hook이 응답을 차단하지 못하기 때문입니다.
+EVIDENCE: TYPE-1 (claude-mem이 원인)
+
+그 결과 5%/20% 컷이 적정하다고 판단합니다.
+
+CONFIDENCE: 높음
+ACTION: root_cause_identified
+USES: 추정
+EVIDENCE: TYPE-1
